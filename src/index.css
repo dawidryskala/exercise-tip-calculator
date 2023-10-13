@@ -1,0 +1,16 @@
+.div-info {
+  display: flex;
+  flex-direction: rows;
+}
+
+.div-info > input,
+p,
+select {
+  height: fit-content;
+  margin-top: 1rem;
+  margin-left: 0.5rem;
+}
+
+/* Output > p {
+  font-weight: bold;
+} */
